@@ -2,9 +2,7 @@
 
 ## Description:
 
-![License](https://img.shields.io/badge/License-MIT-blue.svg "License Badge")
-
-This is a noSQL database using MongoDB that allows for API endpoints to interact with the database. Since this database is designed for a social networking platform, the database contains API endpoints for Users, their thoughts, and their friends' reactions to those thoughts.
+This is a noSQL database using MongoDB that allows for API endpoints to interact with the database. Since this database is designed for a social networking platform, the database contains API endpoints for Users
 
 # Table of Contents
 
@@ -22,13 +20,13 @@ This is a noSQL database using MongoDB that allows for API endpoints to interact
 
 ## Repository:
 
-- [My Github Profile]()
+- [My Github Profile](https://github.com/mambu1998)
 
-- [This Repository]()
+- [This Repository](https://github.com/mambu1998/Challenge18)
 
 ## Walkthrough Video
 
-[Link to Full Walkthrough Video]()
+[Link to Full Walkthrough Video](https://drive.google.com/file/d/1mO4Eb5CwBx2JtdBK8UOIyeh2B2seMdJ7/view?usp=sharing)
 
 ## Examples
 
